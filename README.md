@@ -8,6 +8,7 @@ public class havaSıcaklık {
         int heat;
 
         Scanner input=new Scanner(System.in);
+        
         System.out.println("Sıcaklığı Giriniz= ");
         heat= input.nextInt();
 
