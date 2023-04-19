@@ -23,7 +23,8 @@ public class havaSıcaklık {
                 System.out.println("Pikniğe Gidebilirsiniz");
             }
         }else {
-            System.out.println("Yüzmeye Gidebilirsiniz");
+            System.out.println("Yüzmeye Gidebilirsiniz" );
+            
         }
     }
 }
